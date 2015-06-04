@@ -54,7 +54,11 @@
     <div class="container">
 
       <div class="starter-template">
+<<<<<<< HEAD
         <h1>Bienvenido a CNSA 4 de junio de 2015</h1>
+=======
+        <h1>Bienvenido a CNSA 4 de junio de 2016</h1>
+>>>>>>> pagina2
         <p class="lead">Esta es la página de esta maravillosa asignatura.<br> Y encima la hemos creado con bootstrap!!!.</p>
       </div>
 
@@ -71,5 +75,3 @@
     <script src="js/ie10-viewport-bug-workaround.js"></script>
   </body>
 </html>
-    <!-- Añado al final para dar por saco !!!
-    ================================================== -->
